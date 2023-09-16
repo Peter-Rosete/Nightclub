@@ -58,6 +58,7 @@ p {
 }
 
 .custom-banner-content-item-1 {
+		display: none;
 		position: absolute;
 		top: 48.3%;
 		left: -9%;
